@@ -206,5 +206,5 @@ Effort calculated using the **COCOMO estimation model**.
 ## 🙏 Acknowledgment
 This project documentation is based on the HRMS presentation prepared by the project team.
 
-ppt : ![PPT_Final_End_Sem](./"Human Resource Management System (HRMS) FINAL (1).pptx")
+ppt : ![PPT_Final_End_Sem](Human%20Resource%20Management%20System%20(HRMS)%20FINAL%20(1).pptx)
 
