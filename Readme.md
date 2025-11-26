@@ -179,6 +179,8 @@ Effort calculated using the **COCOMO estimation model**.
 - Dhruvkumar Mulani – 231040011006  
 - Naman Singh – 231040012009  
 - Shyam Chopda – 231040011028  
+👉 View full team contributions here: **[CONTRIBUTION.md](./Contribution.md)**  
+
 
 ---
 ppt : ![PPT_Final_End_Sem](Human%20Resource%20Management%20System%20(HRMS)%20FINAL%20(1).pptx)
