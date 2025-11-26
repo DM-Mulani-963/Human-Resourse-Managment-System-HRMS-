@@ -183,7 +183,8 @@ Effort calculated using the **COCOMO estimation model**.
 ---
 ppt : ![PPT_Final_End_Sem](Human%20Resource%20Management%20System%20(HRMS)%20FINAL%20(1).pptx)
 
-## Presentation Video :  ![Presented_ppt--presentation](https://iitram-my.sharepoint.com/:v:/g/personal/dhruvkumar_mulani_23co_iitram_ac_in/IQDn2nTGGO7UTYzJT2NrA8joAUX03kn6XmIrX0Z1tJt5gvw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ffngad)
+## Presentation Video :[View Presentation Video](https://iitram-my.sharepoint.com/:v:/g/personal/dhruvkumar_mulani_23co_iitram_ac_in/IQDn2nTGGO7UTYzJT2NrA8joAUX03kn6XmIrX0Z1tJt5gvw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ffngad)
+
 ---
 
 ## 🚀 Future Enhancements
