@@ -193,10 +193,13 @@ Effort calculated using the **COCOMO estimation model**.
 ---
 ## 🖼️ UI/UX Screens
 
-![Login Screen](images/login.png)
+![Login Screen](1.jpeg)
 
-![Dashboard UI](images/dashboard.png)
+![Dashboard UI](2.jpeg)
 
+![Attendence UI](3.jpeg)
+
+![employee_detail UI](4.jpeg)
 
 ---
 
