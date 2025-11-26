@@ -191,6 +191,14 @@ Effort calculated using the **COCOMO estimation model**.
 - Predictive analytics  
 
 ---
+## 🖼️ UI/UX Screens
+
+![Login Screen](images/login.png)
+
+![Dashboard UI](images/dashboard.png)
+
+
+---
 
 ## 🙏 Acknowledgment
 This project documentation is based on the HRMS presentation prepared by the project team.
